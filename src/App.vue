@@ -6,7 +6,7 @@ export default{
 </script>
 
 <template>
-  <Banner/>d
+  <Banner/>
 </template>
 <style scoped>
 
